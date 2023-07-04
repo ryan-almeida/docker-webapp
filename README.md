@@ -17,3 +17,4 @@ This project is an example that was built along with a tutorial series from AOSN
 - Use Route 53 and AWS Certificate Manager to customize DNS route and secure the website
 
 ## Architectural Diagram:
+![Alt text](project-architecture.jpeg)
