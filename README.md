@@ -18,3 +18,12 @@ This project is an example that was built along with a tutorial series from AOSN
 
 ## Architectural Diagram:
 ![Alt text](project-architecture.jpeg)
+
+## Learning Outcomes 
+
+- This project helped understand some keys concepts regarding containers, and constainerization tools and services. By utilizing Docker, you gain experience in containerizing applications, creating Docker files, and building container images
+- Pushing the image to Docker Hub and creating an Amazon ECR repository teaches you about image registries and how to securely store and manage container images in AWS
+- Creating a custom VPC with public and private subnets, NAT Gateways, Application Load Balancers, and Security Groups enables you to learn about networking and infrastructure setup in AWS, ensuring secure communication and access control for your application. 
+- Deploying an ECS Cluster within the VPC allows you to understand container orchestration, scaling, and load balancing, as well as leveraging AWS services for managing containers. 
+- Utilizing Route 53 and AWS Certificate Manager for DNS customization and website security helps you gain skills in domain management and SSL certificate integration
+- Overall, this project equips you with practical knowledge in containerization, image management, networking, infrastructure design, container orchestration, scaling, load balancing, DNS management, and website security, providing valuable expertise in cloud architecture and application deployment.
